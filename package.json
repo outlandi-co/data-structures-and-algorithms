@@ -8,7 +8,8 @@
     "test": "jest --verbose --coverage",
     "lint": "eslint '**/*.js'"
   },
-  "author": "",
+  "keywords": [],
+  "author": "Your Name",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
