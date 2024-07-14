@@ -1,15 +1,23 @@
 {
   "name": "data-structures-and-algorithms",
   "version": "1.0.0",
-  "description": "Data Structures and Algorithms",
+  "description": "Data Structures, Algorithms, Code Challenges",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "get-challenge": "`which bash` ./code-challenges/bin/get-challenge.sh",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
   },
   "keywords": [],
   "author": "Your Name",
-  "license": "ISC",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "eslint": "^7.24.0",
+    "mustache": "^4.2.0"
+  },
   "devDependencies": {
-    "jest": "^29.0.0"
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
   }
 }
