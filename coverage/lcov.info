@@ -1,0 +1,27 @@
+TN:
+SF:javascript/Sorting: Comparisons/sorting_comparisons.js
+FN:4,stripLeadingArticles
+FN:9,compareByYear
+FN:14,compareByTitle
+FNF:3
+FNH:3
+FNDA:8,stripLeadingArticles
+FNDA:2,compareByYear
+FNDA:4,compareByTitle
+DA:5,8
+DA:10,2
+DA:15,4
+DA:16,4
+DA:17,4
+DA:18,2
+DA:19,0
+DA:22,1
+LF:8
+LH:7
+BRDA:17,0,0,2
+BRDA:17,0,1,2
+BRDA:18,1,0,2
+BRDA:18,1,1,0
+BRF:4
+BRH:3
+end_of_record
